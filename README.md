@@ -11,8 +11,8 @@ Create compelling data visualizations using Power BI to explore business perform
 | File/Folder | Description |
 |-------------|-------------|
 | `raw_data/Superstore_dataset.xls` | Raw dataset used for visualization |
-| `visuals/dashboradscreenshots` | Dashboard screenshots and summary storyboard |
-| `powerbi/` | Interactive dashboard files |
+| `visuals/dashborad_screenshots` | Dashboard screenshots |
+| `powerbi_file/` | Interactive dashboard files |
 | `questions.md` | Key business questions answered |
 | `summary_insights.md` | Final insights and recommendations |
 
