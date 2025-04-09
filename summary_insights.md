@@ -1,4 +1,7 @@
 # Executive Summary & Insights
+### DASHBOARD: Retail Sales & Profit Analysis
+![image](https://github.com/user-attachments/assets/7f9b317b-b5bd-4570-a2a8-b054fd1f455a)
+
 
 ## High-Level Metrics
 - **Total Sales:** $2.30M
